@@ -2,25 +2,24 @@
 <a href="www.linkedin.com/in/audrey-tobesman-02886a202"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-I am an upcoming junior in undergraduate with a profound interest in technology and a dedication to solving complex problems. I am eager to start my career in cybersecurity.
+I am an upcoming junior undergraduate with a profound interest in technology and a dedication to solving complex problems. I am eager to start my career in cybersecurity.
 
 ## Objective
 
 My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to become a cybersecurity analyst.
 
-## Skills
+## Skills (Work in Progress)
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://github.com/audreytobes/progect-name">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| ---          | <a href="https://github.com/audreytobes/progect-name">Project</a>|
+| --- | <a href="https://google.com">Project</a>|
+| ---        | Project |
+|---      | Project|
+|---                 | Project|
+| ---| Project|
 
-## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+## Tools (Works in Progress I do not currently use any of these tools)
 
 ### Network
 <div>
@@ -42,8 +41,8 @@ My journey in computer science has led me to develop a passion for cybersecurity
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
 
-## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
+## Certifications (Works in Progress I do not currently have any of these certs)
+
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
@@ -52,6 +51,6 @@ My journey in computer science has led me to develop a passion for cybersecurity
 <img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
 </div>
 
-## Projects
-- <a href="https://github.com/audreytobes/progect-name">Detection Lab </a>
-- SOC Automation Project
+## Projects (Works in Progress)
+- <a href="https://github.com/audreytobes/progect-name">Project </a>
+- Project
