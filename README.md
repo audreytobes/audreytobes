@@ -12,7 +12,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| ---          | <a href="https://github.com/audreytobes/progect-name">Project</a>|
+| Linux         | <a href="https://github.com/audreytobes/LazyAdmin">LazyAdmin</a>|
 | --- | <a href="https://google.com">Project</a>|
 | ---        | Project |
 |---      | Project|
@@ -52,5 +52,5 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </div>
 
 ## Projects (Works in Progress)
-- <a href="https://github.com/audreytobes/progect-name">Project </a>
+- <a href="https://github.com/audreytobes/LazyAdmin">LazyAdmin </a>
 - Project
