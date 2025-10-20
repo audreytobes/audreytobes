@@ -23,8 +23,11 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Skill | Project |
 
 ## Tools 
+
+### Operating Systems
 <div>
-     <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white" alt="Windows" />
 </div>
 
 ### Programming
