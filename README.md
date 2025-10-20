@@ -6,7 +6,7 @@ I am a junior in undergraduate with a profound interest in technology and a dedi
 
 ## Objective
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to become a cybersecurity analyst. I am currently working on finishing my B.S. in Computer Science (minors in Cybersecurity and Game Development), working with HacktheBox and TryHackMe to refine and gain skills in cybersecurity, and working on a research project for NASA, the topic is <i>Securing Artificial Intelligence in Space Exploration and Research</i>.
+My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to become a penetration tester. I am currently working on finishing my B.S. in Computer Science (minors in Cybersecurity and Game Development), working with HacktheBox and TryHackMe to refine and gain skills in cybersecurity, and working on a research project for NASA, the topic is <i>Securing Artificial Intelligence in Space Exploration and Research</i>.
 
 
 ## Skills (Work in Progress)
@@ -21,6 +21,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Skill | Project |
 
 ## Tools 
+<div> </div>
 
 ### Network
 <div>
@@ -38,7 +39,6 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </div>
 
 ## Certifications 
-
 <div>
 
 </div>
