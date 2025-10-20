@@ -23,7 +23,9 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ## Tools 
 <div>
      <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+     <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
 </div>
+
 ### Network
 <div>
      
