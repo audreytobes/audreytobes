@@ -4,11 +4,11 @@
 </a>
 
 
-I am a junior in undergraduate with a profound interest in technology and a dedication to solving complex problems. I am eager to start my career in cybersecurity.
+I am a junior in undergraduate studies with a profound interest in technology and a dedication to solving complex problems. I am eager to start my career in cybersecurity.
 
 ## Objective
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to become a penetration tester. I am currently working on finishing my B.S. in Computer Science (minors in Cybersecurity and Game Development), working with HacktheBox and TryHackMe to refine and gain skills in cybersecurity, and working on a research project for NASA, the topic is <i>Securing Artificial Intelligence in Space Exploration and Research</i>.
+My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to work in the DFIR or SOC analyst fields. I am currently working on finishing my B.S. in Computer Science (minor in Cybersecurity), working with HacktheBox, TryHackMe, and Cisco Networking Academy to refine and gain cybersecurity skills, and working on a research project for NASA, the topic is <i>Securing Artificial Intelligence in Space Exploration and Research</i>. I am preparing my studies to get my first certification: CompTIA Network+. 
 
 
 ## Skills (Work in Progress)
