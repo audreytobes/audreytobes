@@ -67,7 +67,6 @@ Currently:
 <div>
   <img src="https://badgen.net/badge/Cisco/Cisco/1BA0D7?icon=cisco&label=Cisco" />
   <img src="https://badgen.net/badge/Wireshark/Wireshark/1679A7?icon=wireshark&label=Wireshark" />
-  <img src="https://badgen.net/badge/TCP/IP/TCP-IP/000000?icon=code&label=TCP/IP" />
 </div>
 
 ### **Endpoint / Forensics**
