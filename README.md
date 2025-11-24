@@ -52,8 +52,8 @@ Currently:
 
 ### **Operating Systems**
 <div>
-  <img src="https://badgen.net/badge/Linux/color/FCC624?icon=linux&label=Linux" />
-  <img src="https://badgen.net/badge/Windows/color/0078D6?icon=windows&label=Windows" />
+  <img src="https://badgen.net/badge/Linux/Linux/FCC624&label=Linux" />
+  <img src="https://badgen.net/badge/Winodws/Windows/0078D6?icon=windows&label=Windows" />
 </div>
 
 ### **Programming / Scripting**
