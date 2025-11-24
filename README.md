@@ -52,21 +52,21 @@ Currently:
 
 ### **Operating Systems**
 <div>
-  <img src="https://badgen.net/badge/Linux/Linux/FCC624&label=Linux" />
-  <img src="https://badgen.net/badge/Winodws/Windows/0078D6?icon=windows&label=Windows" />
+  <img src="https://badgen.net/badge/Linux/Linux/FCC624?icon=linux" />
+  <img src="https://badgen.net/badge/Windows/Windows/0078D6?icon=windows" />
 </div>
 
 ### **Programming / Scripting**
 <div>
-  <img src="https://badgen.net/badge/Python/color/3776AB?icon=python&label=Python" />
-  <img src="https://badgen.net/badge/C/Color/00599C?icon=c&label=C" />
-  <img src="https://badgen.net/badge/Java/Java/007396?icon=java&label=Java" />
+  <img src="https://badgen.net/badge/Python/Python/3776AB?icon=python" />
+  <img src="https://badgen.net/badge/C/C/00599C?icon=c" />
+  <img src="https://badgen.net/badge/Java/Java/007396?icon=java" />
 </div>
 
 ### **Networking**
 <div>
-  <img src="https://badgen.net/badge/Cisco/Cisco/1BA0D7?icon=cisco&label=Cisco" />
-  <img src="https://badgen.net/badge/Wireshark/Wireshark/1679A7?icon=wireshark&label=Wireshark" />
+  <img src="https://badgen.net/badge/Cisco/Cisco/1BA0D7?icon=cisco" />
+  <img src="https://badgen.net/badge/Wireshark/Wireshark/1679A7?icon=wireshark" />
 </div>
 
 ### **Endpoint / Forensics**
