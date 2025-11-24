@@ -15,7 +15,7 @@ I am a junior Computer Science student with an interest in cybersecurity and dig
 </a>
 
 <a href="https://discordapp.com/users/audreytobes" target="_blank">
-  <img src="https://badgen.net/badge/🎮 Discord/audreytobes/purple?icon=discord" />
+  <img src="https://badgen.net/badge/ Discord/audreytobes/purple?icon=discord" />
 </a>
 
 <a href="https://docs.google.com/document/d/1AWM7Tz-CWhg-URrEDJE2uYC5aNcwJbjUz4TIxAzlPKo/edit?usp=drive_link" target="_blank">
