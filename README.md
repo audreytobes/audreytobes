@@ -7,19 +7,19 @@ I am a junior Computer Science student with an interest in cybersecurity and dig
 ## 📬 Contact Me
 
 <a href="mailto:amtobesman@gmail.com">
-  <img src="https://badgen.net/badge/Email/amtobesman%40gmail.com/red?icon=mail" />
+  <img src="https://badgen.net/badge/Email/amtobesman%40gmail.com/red?icon=gmail&label=Email" />
 </a>
 
 <a href="https://www.linkedin.com/in/audrey-tobesman-02886a202" target="_blank">
-  <img src="https://badgen.net/badge/LinkedIn/Audrey%20Tobesman/blue?icon=linkedin" />
+  <img src="https://badgen.net/badge/LinkedIn/Audrey%20Tobesman/0077B5?icon=linkedin&label=LinkedIn" />
 </a>
 
 <a href="https://discordapp.com/users/audreytobes" target="_blank">
-  <img src="https://badgen.net/badge/Discord/audreytobes/5865F2?icon=discord" />
+  <img src="https://badgen.net/badge/Discord/audreytobes/5865F2?icon=discord&label=Discord" />
 </a>
 
 <a href="https://docs.google.com/document/d/1AWM7Tz-CWhg-URrEDJE2uYC5aNcwJbjUz4TIxAzlPKo/edit?usp=drive_link" target="_blank">
-  <img src="https://badgen.net/badge/Resume/View/4CAF50?icon=google" />
+  <img src="https://badgen.net/badge/Resume/View/4CAF50?icon=google&label=Resume" />
 </a>
 
 ---
