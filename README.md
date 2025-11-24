@@ -1,7 +1,4 @@
 # 🔐 Hello, I'm Audrey
-<a href="https://www.linkedin.com/in/audrey-tobesman-02886a202" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
-</a>
 
 I am a junior Computer Science student with an interest in cybersecurity and digital forensics. I’m passionate about understanding how systems work, how they fail, and how to protect them. I am currently developing hands-on skills in SOC analysis, DFIR, networking, and Python scripting to prepare for a career in cybersecurity.
 
@@ -16,6 +13,26 @@ I am currently:
 - Working on a research project for **NASA**:  
   *"Securing Artificial Intelligence in Space Exploration and Research"*  
 - Studying for **CompTIA Network+**
+
+---
+
+## 📬 Contact Me
+
+<a href="mailto:amtobesman@gmail.com">
+  <img src="https://img.shields.io/badge/Email-amtobesman%40gmail.com-red?style=flat&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/audrey-tobesman-02886a202" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Audrey%20Tobesman-0077B5?style=flat&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://discordapp.com/users/audreytobes" target="_blank">
+  <img src="https://img.shields.io/badge/Discord-audreytobes-5865F2?style=flat&logo=discord&logoColor=white" />
+</a>
+
+<a href="https://docs.google.com/document/d/1AWM7Tz-CWhg-URrEDJE2uYC5aNcwJbjUz4TIxAzlPKo/edit?usp=drive_link" target="_blank">
+  <img src="https://img.shields.io/badge/Resume-View%20Here-4CAF50?style=flat&logo=google-drive&logoColor=white" />
+</a>
 
 ---
 
@@ -56,15 +73,12 @@ I am currently:
 
 ### **Endpoint / Forensics**
 <div>
-  <img src="https://img.shields.io/badge/Sysmon-5A5A5A?style=flat" />
-  <img src="https://img.shields.io/badge/Autopsy-2E86C1?style=flat" />
-  <img src="https://img.shields.io/badge/Volatility-2B303A?style=flat" />
+   
 </div>
 
 ### **SIEM / Monitoring**
 <div>
-  <img src="https://img.shields.io/badge/Splunk-000000?style=flat&logo=splunk" />
-  <img src="https://img.shields.io/badge/Wazuh-5A5A5A?style=flat&logo=wazuh&logoColor=white" />
+   
 </div>
 
 ---
@@ -101,5 +115,3 @@ I am currently:
 ---
 
 Thanks for visiting my profile! I'm actively building and learning — feel free to connect or check back for updates.
-
-- Project
