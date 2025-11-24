@@ -52,14 +52,14 @@ Currently:
 
 ### **Operating Systems**
 <div>
-  <img src="https://badgen.net/badge/Linux/Linux/FCC624?icon=linux&label=Linux" />
-  <img src="https://badgen.net/badge/Windows/Windows/0078D6?icon=windows&label=Windows" />
+  <img src="https://badgen.net/badge/Linux/FCC624?icon=linux&label=Linux" />
+  <img src="https://badgen.net/badge/Windows/0078D6?icon=windows&label=Windows" />
 </div>
 
 ### **Programming / Scripting**
 <div>
-  <img src="https://badgen.net/badge/Python/Python/3776AB?icon=python&label=Python" />
-  <img src="https://badgen.net/badge/C/C/00599C?icon=c&label=C" />
+  <img src="https://badgen.net/badge/Python/3776AB?icon=python&label=Python" />
+  <img src="https://badgen.net/badge/C/00599C?icon=c&label=C" />
   <img src="https://badgen.net/badge/Java/Java/007396?icon=java&label=Java" />
 </div>
 
