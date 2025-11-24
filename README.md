@@ -4,6 +4,26 @@ I am a junior Computer Science student with an interest in cybersecurity and dig
 
 ---
 
+## 📬 Contact Me
+
+<a href="mailto:amtobesman@gmail.com">
+  <img src="https://badgen.net/badge/Email/amtobesman%40gmail.com/red?icon=mail" />
+</a>
+
+<a href="https://www.linkedin.com/in/audrey-tobesman-02886a202" target="_blank">
+  <img src="https://badgen.net/badge/LinkedIn/Audrey%20Tobesman/blue?icon=linkedin" />
+</a>
+
+<a href="https://discordapp.com/users/audreytobes" target="_blank">
+  <img src="https://badgen.net/badge/Discord/audreytobes/5865F2?icon=discord" />
+</a>
+
+<a href="https://docs.google.com/document/d/1AWM7Tz-CWhg-URrEDJE2uYC5aNcwJbjUz4TIxAzlPKo/edit?usp=drive_link" target="_blank">
+  <img src="https://badgen.net/badge/Resume/View/4CAF50?icon=google" />
+</a>
+
+---
+
 ## 🎯 Objective
 My goal is to secure an entry-level role as a **SOC Analyst** or **Digital Forensics & Incident Response (DFIR) analyst**.  
 
@@ -13,26 +33,6 @@ I am currently:
 - Working on a research project for **NASA**:  
   *"Securing Artificial Intelligence in Space Exploration and Research"*  
 - Studying for **CompTIA Network+**
-
----
-
-## 📬 Contact Me
-
-<a href="mailto:amtobesman@gmail.com">
-  <img src="https://img.shields.io/badge/Email-amtobesman%40gmail.com-red?style=flat&logo=gmail&logoColor=white" />
-</a>
-
-<a href="https://www.linkedin.com/in/audrey-tobesman-02886a202" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Audrey%20Tobesman-0077B5?style=flat&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="https://discordapp.com/users/audreytobes" target="_blank">
-  <img src="https://img.shields.io/badge/Discord-audreytobes-5865F2?style=flat&logo=discord&logoColor=white" />
-</a>
-
-<a href="https://docs.google.com/document/d/1AWM7Tz-CWhg-URrEDJE2uYC5aNcwJbjUz4TIxAzlPKo/edit?usp=drive_link" target="_blank">
-  <img src="https://img.shields.io/badge/Resume-View%20Here-4CAF50?style=flat&logo=google-drive&logoColor=white" />
-</a>
 
 ---
 
@@ -53,22 +53,22 @@ I am currently:
 
 ### **Operating Systems**
 <div>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white" />
+  <img src="https://badgen.net/badge/Linux/Linux/FCC624?icon=linux" />
+  <img src="https://badgen.net/badge/Windows/Windows/0078D6?icon=windows" />
 </div>
 
 ### **Programming / Scripting**
 <div>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white" />
+  <img src="https://badgen.net/badge/Python/Python/3776AB?icon=python" />
+  <img src="https://badgen.net/badge/C/C/00599C?icon=c" />
+  <img src="https://badgen.net/badge/Java/Java/007396?icon=java" />
 </div>
 
 ### **Networking**
 <div>
-  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=flat&logo=cisco&logoColor=white" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/TCP/IP-000000?style=flat&logo=protocols&logoColor=white" />
+  <img src="https://badgen.net/badge/Cisco/Cisco/1BA0D7?icon=cisco" />
+  <img src="https://badgen.net/badge/Wireshark/Wireshark/1679A7?icon=wireshark" />
+  <img src="https://badgen.net/badge/TCP/IP/TCP-IP/000000?icon=code" />
 </div>
 
 ### **Endpoint / Forensics**
