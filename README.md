@@ -8,7 +8,7 @@ I am a junior in undergraduate studies with a profound interest in technology an
 
 ## Objective
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to work in the DFIR or SOC analyst fields. I am currently working on finishing my B.S. in Computer Science (minor in Cybersecurity), working with HacktheBox, TryHackMe, and Cisco Networking Academy to refine and gain cybersecurity skills, and working on a research project for NASA, the topic is <i>Securing Artificial Intelligence in Space Exploration and Research</i>. I am preparing my studies to get my first certification: CompTIA Network+. 
+My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to work in the DFIR or SOC analyst fields. I am currently working on finishing my B.S. in Computer Science (minor in Cybersecurity), working with HacktheBox, TryHackMe, and Cisco Networking Academy to refine and gain cybersecurity skills, and working on a research project for NASA, the topic is <i>Securing Artificial Intelligence in Space Exploration and Research</i>. I am studying to get my first certification: CompTIA Network+. 
 
 
 ## Skills (Work in Progress)
