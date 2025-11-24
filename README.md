@@ -68,7 +68,7 @@ I am currently:
 <div>
   <img src="https://badgen.net/badge/Cisco/Cisco/1BA0D7?icon=cisco" />
   <img src="https://badgen.net/badge/Wireshark/Wireshark/1679A7?icon=wireshark" />
-  <img src="https://badgen.net/badge/TCP/IP/TCP-IP/000000?icon=code" />
+  <img src="https://badgen.net/badge/TCP-IP/TCP-IP/000000?icon=code" />
 </div>
 
 ### **Endpoint / Forensics**
