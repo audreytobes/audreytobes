@@ -7,45 +7,44 @@ I am a junior Computer Science student with an interest in cybersecurity and dig
 ## 📬 Contact Me
 
 <a href="mailto:amtobesman@gmail.com">
-  <img src="https://badgen.net/badge/✉️ Email/amtobesman%40gmail.com/pink?icon=mail" />
+  <img src="https://badgen.net/badge/Email/amtobesman%40gmail.com/red?icon=mail&label=Email" />
 </a>
 
 <a href="https://www.linkedin.com/in/audrey-tobesman-02886a202" target="_blank">
-  <img src="https://badgen.net/badge/💼 LinkedIn/Audrey%20Tobesman/lightblue?icon=linkedin" />
+  <img src="https://badgen.net/badge/LinkedIn/Audrey%20Tobesman/0077B5?icon=linkedin&label=LinkedIn" />
 </a>
 
 <a href="https://discordapp.com/users/audreytobes" target="_blank">
-  <img src="https://badgen.net/badge/ Discord/audreytobes/purple?icon=discord" />
+  <img src="https://badgen.net/badge/Discord/audreytobes/5865F2?icon=discord&label=Discord" />
 </a>
 
 <a href="https://docs.google.com/document/d/1AWM7Tz-CWhg-URrEDJE2uYC5aNcwJbjUz4TIxAzlPKo/edit?usp=drive_link" target="_blank">
-  <img src="https://badgen.net/badge/📄 Resume/View/green?icon=google" />
+  <img src="https://badgen.net/badge/Resume/View/4CAF50?icon=google&label=Resume" />
 </a>
 
 ---
 
 ## 🎯 Objective
-My goal is to secure an entry-level role as a **SOC Analyst** or **Digital Forensics & Incident Response (DFIR) analyst**.  
+To secure an entry-level role as a **SOC Analyst** or **Digital Forensics & Incident Response (DFIR) analyst**.  
 
-I am currently:
+Currently:
 - Completing my **B.S. in Computer Science (Cybersecurity minor)**  
-- Building skills through **HackTheBox, TryHackMe, and Cisco Networking Academy**  
-- Working on a research project for **NASA**:  
-  *"Securing Artificial Intelligence in Space Exploration and Research"*  
-- Studying for **CompTIA Network+**
+- Building hands-on skills through **HackTheBox, TryHackMe, Cisco Networking Academy**  
+- Researching for **NASA**: *"Securing Artificial Intelligence in Space Exploration and Research"*  
+- Preparing for **CompTIA Network+** certification
 
 ---
 
-## 🧠 Skills (More Projects Coming Soon)
+## 🧠 Skills
 
 | Skill | Associated Project |
 |-------|---------------------|
 | VLAN Configuration | [VLAN Configuration](https://github.com/audreytobes/VLAN-Configuration) |
-| Python Automation | (In Progress) |
-| Packet Analysis (Wireshark) | (In Progress) |
-| Event Log Analysis (Windows) | (In Progress) |
-| Linux Administration | (In Progress) |
-| SOC/DFIR Writeups | (In Progress) |
+| Python Automation | In Progress |
+| Packet Analysis (Wireshark) | In Progress |
+| Event Log Analysis (Windows) | In Progress |
+| Linux Administration | In Progress |
+| SOC/DFIR Writeups | In Progress |
 
 ---
 
@@ -53,22 +52,22 @@ I am currently:
 
 ### **Operating Systems**
 <div>
-  <img src="https://badgen.net/badge/Linux/Linux/FCC624?icon=linux" />
-  <img src="https://badgen.net/badge/Windows/Windows/0078D6?icon=windows" />
+  <img src="https://badgen.net/badge/Linux/Linux/FCC624?icon=linux&label=Linux" />
+  <img src="https://badgen.net/badge/Windows/Windows/0078D6?icon=windows&label=Windows" />
 </div>
 
 ### **Programming / Scripting**
 <div>
-  <img src="https://badgen.net/badge/Python/Python/3776AB?icon=python" />
-  <img src="https://badgen.net/badge/C/C/00599C?icon=c" />
-  <img src="https://badgen.net/badge/Java/Java/007396?icon=java" />
+  <img src="https://badgen.net/badge/Python/Python/3776AB?icon=python&label=Python" />
+  <img src="https://badgen.net/badge/C/C/00599C?icon=c&label=C" />
+  <img src="https://badgen.net/badge/Java/Java/007396?icon=java&label=Java" />
 </div>
 
 ### **Networking**
 <div>
-  <img src="https://badgen.net/badge/Cisco/Cisco/1BA0D7?icon=cisco" />
-  <img src="https://badgen.net/badge/Wireshark/Wireshark/1679A7?icon=wireshark" />
-  <img src="https://badgen.net/badge/TCP-IP/TCP-IP/000000?icon=code" />
+  <img src="https://badgen.net/badge/Cisco/Cisco/1BA0D7?icon=cisco&label=Cisco" />
+  <img src="https://badgen.net/badge/Wireshark/Wireshark/1679A7?icon=wireshark&label=Wireshark" />
+  <img src="https://badgen.net/badge/TCP/IP/TCP-IP/000000?icon=code&label=TCP/IP" />
 </div>
 
 ### **Endpoint / Forensics**
@@ -84,17 +83,16 @@ I am currently:
 ---
 
 ## 🎓 Certifications
-*(In Progress)*  
-- **CompTIA Network+**
-- CompTIA Security+ (Planned)
-- TryHackMe SOC Level 1 (Ongoing)
+- **CompTIA Network+** (In Progress)  
+- **CompTIA Security+** (Planned)  
+- **TryHackMe SOC Level 1** (Ongoing)
 
 ---
 
-## 📂 Featured Projects (More Coming Soon)
+## 📂 Featured Projects
 
 - **[VLAN Configuration](https://github.com/audreytobes/VLAN-Configuration)**  
-  Configuring VLANs, trunk links, and inter-VLAN routing in Cisco Packet Tracer.
+  Configured VLANs, trunk links, and inter-VLAN routing in Cisco Packet Tracer.
 
 - **SOC Home Lab (Planned)**  
   Windows event logging, Sysmon, Splunk dashboards, detection rules, and incident reports.
@@ -107,11 +105,11 @@ I am currently:
 
 ---
 
-## 🚀 What's Next for My GitHub
+## 🚀 Next Steps
 - Add SOC/DFIR writeups  
 - Build a Splunk detection lab  
 - Create Python-based cybersecurity tools  
 
 ---
 
-Thanks for visiting my profile! I'm actively building and learning — feel free to connect or check back for updates.
+Thanks for visiting my profile! I am actively building skills — feel free to connect or check back for updates.
