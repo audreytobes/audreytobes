@@ -1,69 +1,105 @@
-# Hello, I'm Audrey
+# 🔐 Hello, I'm Audrey
 <a href="https://www.linkedin.com/in/audrey-tobesman-02886a202" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
 </a>
 
+I am a junior Computer Science student with an interest in cybersecurity and digital forensics. I’m passionate about understanding how systems work, how they fail, and how to protect them. I am currently developing hands-on skills in SOC analysis, DFIR, networking, and Python scripting to prepare for a career in cybersecurity.
 
-I am a junior in undergraduate studies with a profound interest in technology and a dedication to solving complex problems. I am eager to start my career in cybersecurity.
+---
 
-## Objective
+## 🎯 Objective
+My goal is to secure an entry-level role as a **SOC Analyst** or **Digital Forensics & Incident Response (DFIR) analyst**.  
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to work in the DFIR or SOC analyst fields. I am currently working on finishing my B.S. in Computer Science (minor in Cybersecurity), working with HacktheBox, TryHackMe, and Cisco Networking Academy to refine and gain cybersecurity skills, and working on a research project for NASA, the topic is <i>Securing Artificial Intelligence in Space Exploration and Research</i>. I am studying to get my first certification: CompTIA Network+. 
+I am currently:
+- Completing my **B.S. in Computer Science (Cybersecurity minor)**  
+- Building skills through **HackTheBox, TryHackMe, and Cisco Networking Academy**  
+- Working on a research project for **NASA**:  
+  *"Securing Artificial Intelligence in Space Exploration and Research"*  
+- Studying for **CompTIA Network+**
 
+---
 
-## Skills (Work in Progress)
+## 🧠 Skills (More Projects Coming Soon)
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| VLAN         | <a href="https://github.com/audreytobes/VLAN-Configuration">VLAN Configuration</a> |
-| Skill | <a href="https://google.com">Project</a> |
-| Skill        | Project |
-| Skill      | Project |
-| Skill                 | Project |
-| Skill | Project |
+| Skill | Associated Project |
+|-------|---------------------|
+| VLAN Configuration | [VLAN Configuration](https://github.com/audreytobes/VLAN-Configuration) |
+| Python Automation | (In Progress) |
+| Packet Analysis (Wireshark) | (In Progress) |
+| Event Log Analysis (Windows) | (In Progress) |
+| Linux Administration | (In Progress) |
+| SOC/DFIR Writeups | (In Progress) |
 
-## Tools 
+---
 
-### Operating Systems
+## 🛠️ Tools & Technologies
+
+### **Operating Systems**
 <div>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white" alt="Windows" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white" />
 </div>
 
-### Programming
+### **Programming / Scripting**
 <div>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white" />
 </div>
 
-### Front-End
+### **Networking**
 <div>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=flat&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/TCP/IP-000000?style=flat&logo=protocols&logoColor=white" />
 </div>
 
-### Network
+### **Endpoint / Forensics**
 <div>
-     
+  <img src="https://img.shields.io/badge/Sysmon-5A5A5A?style=flat" />
+  <img src="https://img.shields.io/badge/Autopsy-2E86C1?style=flat" />
+  <img src="https://img.shields.io/badge/Volatility-2B303A?style=flat" />
 </div>
 
-### Endpoint
+### **SIEM / Monitoring**
 <div>
-     
+  <img src="https://img.shields.io/badge/Splunk-000000?style=flat&logo=splunk" />
+  <img src="https://img.shields.io/badge/Wazuh-5A5A5A?style=flat&logo=wazuh&logoColor=white" />
 </div>
 
-### SIEM
-<div>
-     
-</div>
+---
 
-## Certifications 
-<div>
+## 🎓 Certifications
+*(In Progress)*  
+- **CompTIA Network+**
+- CompTIA Security+ (Planned)
+- TryHackMe SOC Level 1 (Ongoing)
 
-</div>
+---
 
-## Projects (Works in Progress)
-- <a href="https://github.com/audreytobes/VLAN-Configuration">VLAN Configuration</a>
+## 📂 Featured Projects (More Coming Soon)
+
+- **[VLAN Configuration](https://github.com/audreytobes/VLAN-Configuration)**  
+  Configuring VLANs, trunk links, and inter-VLAN routing in Cisco Packet Tracer.
+
+- **SOC Home Lab (Planned)**  
+  Windows event logging, Sysmon, Splunk dashboards, detection rules, and incident reports.
+
+- **DFIR Case Study (Planned)**  
+  Memory analysis, disk forensics, timeline building, and IOC extraction.
+
+- **Python Log Parser (Planned)**  
+  Script to analyze Windows Event Logs and extract suspicious activity.
+
+---
+
+## 🚀 What's Next for My GitHub
+- Add SOC/DFIR writeups  
+- Build a Splunk detection lab  
+- Create Python-based cybersecurity tools  
+
+---
+
+Thanks for visiting my profile! I'm actively building and learning — feel free to connect or check back for updates.
+
 - Project
