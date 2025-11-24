@@ -15,7 +15,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| VLAN         | <a href="https://github.com/audreytobes/VLAN-Configuration">Project Name</a> |
+| VLAN         | <a href="https://github.com/audreytobes/VLAN-Configuration">VLAN Configuration</a> |
 | Skill | <a href="https://google.com">Project</a> |
 | Skill        | Project |
 | Skill      | Project |
