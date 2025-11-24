@@ -7,6 +7,7 @@ I am a junior Computer Science student with an interest in cybersecurity and dig
 ## Cobtact Me
 
 <div align="center"> <a href="mailto:amtobesman@gmail.com"> <img src="https://img.shields.io/badge/Email-amtobesman%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://www.linkedin.com/in/audrey-tobesman-02886a202" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-Audrey%20Tobesman-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://discordapp.com/users/audreytobes" target="_blank"> <img src="https://img.shields.io/badge/Discord-audreytobes-5865F2?style=for-the-badge&logo=discord&logoColor=white" /> </a> <a href="https://docs.google.com/document/d/1AWM7Tz-CWhg-URrEDJE2uYC5aNcwJbjUz4TIxAzlPKo/edit?usp=drive_link" target="_blank"> <img src="https://img.shields.io/badge/Resume-View-4CAF50?style=for-the-badge&logo=googledocs&logoColor=white" /> </a> </div>
+
 ---
 
 ## Objective
