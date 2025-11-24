@@ -9,15 +9,12 @@ I am a junior Computer Science student with an interest in cybersecurity and dig
 <a href="mailto:amtobesman@gmail.com" style="display:inline-block; margin:0; padding:0;">
   <img src="https://img.shields.io/badge/Email-amtobesman%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" style="display:block;" />
 </a>
-
 <a href="https://www.linkedin.com/in/audrey-tobesman-02886a202" target="_blank" style="display:inline-block; margin:0; padding:0;">
   <img src="https://img.shields.io/badge/LinkedIn-Audrey%20Tobesman-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="display:block;" />
 </a>
-
 <a href="https://discordapp.com/users/audreytobes" target="_blank" style="display:inline-block; margin:0; padding:0;">
   <img src="https://img.shields.io/badge/Discord-audreytobes-5865F2?style=for-the-badge&logo=discord&logoColor=white" style="display:block;" />
 </a>
-
 <a href="https://docs.google.com/document/d/1AWM7Tz-CWhg-URrEDJE2uYC5aNcwJbjUz4TIxAzlPKo/edit?usp=drive_link" target="_blank" style="display:inline-block; margin:0; padding:0;">
   <img src="https://img.shields.io/badge/Resume-View-4CAF50?style=for-the-badge&logo=google&logoColor=white" style="display:block;" />
 </a>
