@@ -65,5 +65,5 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </div>
 
 ## Projects (Works in Progress)
-- <a href="https://github.com/audreytobes/VLAN-Configuration">Project </a>
+- <a href="https://github.com/audreytobes/VLAN-Configuration">VLAN Configuration</a>
 - Project
