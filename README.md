@@ -1,10 +1,10 @@
-# 🔐 Hello, I'm Audrey
+# Hello, I'm Audrey
 
 I am a junior Computer Science student with an interest in cybersecurity and digital forensics. I’m passionate about understanding how systems work, how they fail, and how to protect them. I am currently developing hands-on skills in SOC analysis, DFIR, networking, and Python scripting to prepare for a career in cybersecurity.
 
 ---
 
-## 📬 Contact Me
+## Contact Me
 
 <a href="mailto:amtobesman@gmail.com">
   <img src="https://badgen.net/badge/Email/amtobesman%40gmail.com/red?icon=mail&label=Email" />
@@ -24,7 +24,7 @@ I am a junior Computer Science student with an interest in cybersecurity and dig
 
 ---
 
-## 🎯 Objective
+## Objective
 To secure an entry-level role as a **SOC Analyst** or **Digital Forensics & Incident Response (DFIR) analyst**.  
 
 Currently:
@@ -35,7 +35,7 @@ Currently:
 
 ---
 
-## 🧠 Skills
+## Skills
 
 | Skill | Associated Project |
 |-------|---------------------|
@@ -48,7 +48,7 @@ Currently:
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 ### **Operating Systems**
 <div>
@@ -81,14 +81,14 @@ Currently:
 
 ---
 
-## 🎓 Certifications
+## Certifications
 - **CompTIA Network+** (In Progress)  
 - **CompTIA Security+** (Planned)  
 - **TryHackMe SOC Level 1** (Ongoing)
 
 ---
 
-## 📂 Featured Projects
+## Featured Projects
 
 - **[VLAN Configuration](https://github.com/audreytobes/VLAN-Configuration)**  
   Configured VLANs, trunk links, and inter-VLAN routing in Cisco Packet Tracer.
@@ -104,7 +104,7 @@ Currently:
 
 ---
 
-## 🚀 Next Steps
+## Next Steps
 - Add SOC/DFIR writeups  
 - Build a Splunk detection lab  
 - Create Python-based cybersecurity tools  
