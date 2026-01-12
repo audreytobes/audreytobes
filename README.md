@@ -17,7 +17,7 @@ Currently:
 - Completing my **B.S. in Computer Science (Cybersecurity minor)**  
 - Building hands-on skills through **HackTheBox, TryHackMe, Cisco Networking Academy**  
 - Researching for **NASA**: *"Securing Artificial Intelligence in Space Exploration and Research"*  
-- Preparing for **CompTIA Network+** certification
+- Preparing for **CompTIA Security+** certification
 
 ---
 
@@ -68,9 +68,8 @@ Currently:
 ---
 
 ## Certifications
-- **CompTIA Network+** (In Progress)  
-- **CompTIA Security+** (Planned)  
-- **TryHackMe SOC Level 1** (Ongoing)
+- **CompTIA Network+** 
+- **CompTIA Security+** (Preparing)  
 
 ---
 
