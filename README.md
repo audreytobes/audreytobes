@@ -8,12 +8,9 @@ This GitHub serves as my **cybersecurity portfolio**, showcasing hands-on labs, 
 
 ## 📬 Contact Me
 
-## 📬 Contact
-
 - 📧 **Email:** [amtobesman@gmail.com](mailto:amtobesman@gmail.com)  
 - 💼 **LinkedIn:** [linkedin.com/in/audrey-tobesman-02886a202](https://www.linkedin.com/in/audrey-tobesman-02886a202)  
 - 📄 **Resume:** [View Resume](https://docs.google.com/document/d/1AWM7Tz-CWhg-URrEDJE2uYC5aNcwJbjUz4TIxAzlPKo/edit?usp=drive_link)  
-- 💬 **Discord:** audreytobes  
 
 ---
 
