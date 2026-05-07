@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Audrey Tobesman
+# Hi, I'm Audrey Tobesman
 
 Junior CS student specializing in **cybersecurity and SOC operations**. Pursuing a B.S. in Computer Science with a Cybersecurity minor — currently conducting cybersecurity research for NASA.
 
@@ -6,7 +6,7 @@ This GitHub is my hands-on portfolio: labs, network configurations, scripting, a
 
 ---
 
-## 📬 Contact
+## Contact
 
 - 📧 [amtobesman@gmail.com](mailto:amtobesman@gmail.com)
 - 💼 [linkedin.com/in/audrey-tobesman-02886a202](https://www.linkedin.com/in/audrey-tobesman-02886a202)
@@ -14,7 +14,7 @@ This GitHub is my hands-on portfolio: labs, network configurations, scripting, a
 
 ---
 
-## 🎯 Currently
+## Currently
 
 - 🎓 B.S. Computer Science · Cybersecurity minor
 - 🛰️ NASA research — *"Securing Artificial Intelligence in Space Exploration and Research"*
@@ -23,7 +23,7 @@ This GitHub is my hands-on portfolio: labs, network configurations, scripting, a
 
 ---
 
-## 🧠 Technical Skills
+## Technical Skills
 
 | Area | Tools & Technologies |
 |------|----------------------|
@@ -37,7 +37,7 @@ This GitHub is my hands-on portfolio: labs, network configurations, scripting, a
 
 ---
 
-## 🛠️ Tools
+## Tools
 
 <div>
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
@@ -48,14 +48,14 @@ This GitHub is my hands-on portfolio: labs, network configurations, scripting, a
 
 ---
 
-## 📜 Certifications
+## Certifications
 
 - ✅ CompTIA Network+
 - 📖 CompTIA Security+ *(in progress)*
 
 ---
 
-## 🚀 Projects
+## Projects
 
 ### 🔹 [VLAN Configuration](https://github.com/audreytobes/VLAN-Configuration)
 Configured VLANs, trunk links, and inter-VLAN routing using Cisco Packet Tracer. Demonstrates foundational enterprise networking and Layer 3 switching concepts.
