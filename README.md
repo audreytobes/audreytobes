@@ -57,10 +57,33 @@ This GitHub is my hands-on portfolio: labs, network configurations, scripting, a
 
 ## Projects
 
-### 🔹 [VLAN Configuration](https://github.com/audreytobes/VLAN-Configuration)
-Configured VLANs, trunk links, and inter-VLAN routing using Cisco Packet Tracer. Demonstrates foundational enterprise networking and Layer 3 switching concepts.
+### 🔹 VLAN Configuration and Inter-VLAN Routing Lab
+Configured and verified VLAN segmentation, trunk links, and inter-VLAN routing using Router-on-a-Stick in Cisco Packet Tracer. This project demonstrates core enterprise networking concepts including Layer 2 switching, Layer 3 routing between VLANs, and network segmentation best practices.
 
-`Cisco` `Networking` `Packet Tracer`
+**Key concepts:**
+- VLAN creation and management
+- Switchport access and trunk configuration (802.1Q)
+- Router-on-a-Stick inter-VLAN routing
+- IP addressing and subnetting
+- Network connectivity verification using ping tests
+
+**Tools:** `Cisco Packet Tracer` `Cisco IOS` `Networking`
+
+---
+
+### 🔹 Network Traffic Analysis with Wireshark
+Captured and analyzed live network traffic using Wireshark to investigate DNS, TCP, ICMP, and HTTP protocols. This project demonstrates foundational packet analysis and network forensics skills commonly used in SOC and cybersecurity environments.
+
+**Key concepts:**
+- Packet capture and inspection
+- DNS resolution analysis
+- TCP three-way handshake analysis
+- ICMP connectivity testing
+- HTTP traffic inspection
+- Wireshark filtering and stream analysis
+- Basic network forensics and traffic interpretation
+
+**Tools:** `Wireshark` `Windows 11` `Networking` `Packet Analysis`
 
 ---
 
