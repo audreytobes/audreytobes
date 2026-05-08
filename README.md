@@ -27,13 +27,11 @@ This GitHub is my hands-on portfolio: labs, network configurations, scripting, a
 
 | Area | Tools & Technologies |
 |------|----------------------|
-| Networking | VLANs, trunking, inter-VLAN routing, Cisco |
+| Networking | VLANs, inter-VLAN routing, ACLs, Cisco |
 | Operating Systems | Linux, Windows administration |
 | Languages | Python, C, Java |
 | Packet Analysis | Wireshark |
 | Log Analysis | Windows Event Logs |
-
-**Currently learning:** Splunk · Sysmon · SOC detection workflows
 
 ---
 
@@ -57,34 +55,25 @@ This GitHub is my hands-on portfolio: labs, network configurations, scripting, a
 
 ## Projects
 
-### 🔹 VLAN Configuration and Inter-VLAN Routing Lab
-Configured and verified VLAN segmentation, trunk links, and inter-VLAN routing using Router-on-a-Stick in Cisco Packet Tracer. This project demonstrates core enterprise networking concepts including Layer 2 switching, Layer 3 routing between VLANs, and network segmentation best practices.
-
-**Key concepts:**
-- VLAN creation and management
-- Switchport access and trunk configuration (802.1Q)
-- Router-on-a-Stick inter-VLAN routing
-- IP addressing and subnetting
-- Network connectivity verification using ping tests
-
-**Tools:** `Cisco Packet Tracer` `Cisco IOS` `Networking`
-
+### 🔹 [VLAN Configuration and Inter-VLAN Routing](https://github.com/audreytobes/VLAN-Configuration)
+Configured and verified VLAN segmentation, trunk links, and inter-VLAN routing using Router-on-a-Stick in Cisco Packet Tracer. Demonstrates core enterprise networking concepts including Layer 2 switching, Layer 3 routing between VLANs, and network segmentation best practices.
+ 
+`Cisco Packet Tracer` `Cisco IOS` `Networking`
+ 
 ---
-
-### 🔹 Network Traffic Analysis with Wireshark
-Captured and analyzed live network traffic using Wireshark to investigate DNS, TCP, ICMP, and HTTP protocols. This project demonstrates foundational packet analysis and network forensics skills commonly used in SOC and cybersecurity environments.
-
-**Key concepts:**
-- Packet capture and inspection
-- DNS resolution analysis
-- TCP three-way handshake analysis
-- ICMP connectivity testing
-- HTTP traffic inspection
-- Wireshark filtering and stream analysis
-- Basic network forensics and traffic interpretation
-
-**Tools:** `Wireshark` `Windows 11` `Networking` `Packet Analysis`
-
+ 
+### 🔹 [Network Traffic Analysis with Wireshark](https://github.com/audreytobes/Wireshark-Traffic-Analysis)
+Captured and analyzed live network traffic using Wireshark to investigate DNS, TCP, ICMP, and HTTP protocols. Demonstrates foundational packet analysis and network forensics skills commonly used in SOC environments.
+ 
+`Wireshark` `Packet Analysis` `Network Forensics`
+ 
+---
+ 
+### 🔹 [Firewall ACL Configuration & Network Segmentation](https://github.com/audreytobes/Firewall-ACL-Configuration)
+Designed and enforced a guest network isolation policy using Cisco extended ACLs, demonstrating firewall rule logic, traffic segmentation, and access control between departments.
+ 
+`Cisco Packet Tracer` `Cisco IOS` `Networking` `Firewall`
+ 
 ---
 
 *More projects coming soon — actively building.*
