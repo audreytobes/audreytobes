@@ -28,6 +28,7 @@ This GitHub is my hands-on portfolio: labs, network configurations, scripting, a
 | Area | Tools & Technologies |
 |------|----------------------|
 | Networking | VLANs, inter-VLAN routing, ACLs, Cisco |
+| Reconnaissance | Nmap (host discovery, port scanning, NSE scripting) |
 | Operating Systems | Linux, Windows administration |
 | Languages | Python, C, Java |
 | Packet Analysis | Wireshark |
@@ -42,6 +43,7 @@ This GitHub is my hands-on portfolio: labs, network configurations, scripting, a
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white"/>
 </div>
 
 ---
@@ -73,6 +75,13 @@ Captured and analyzed live network traffic using Wireshark to investigate DNS, T
 Designed and enforced a guest network isolation policy using Cisco extended ACLs, demonstrating firewall rule logic, traffic segmentation, and access control between departments.
  
 `Cisco Packet Tracer` `Cisco IOS` `Networking` `Firewall`
+ 
+---
+
+### 🔹 [Network Reconnaissance with Nmap](https://github.com/audreytobes/Network-Reconnaissance-Nmap)
+Conducted full network reconnaissance across four TryHackMe rooms covering host discovery, basic and advanced port scanning, and post-scan enumeration using Nmap — documented from both offensive and SOC defensive perspectives.
+ 
+`Nmap` `Kali Linux` `TryHackMe` `Reconnaissance` `NSE`
  
 ---
 
